@@ -3,7 +3,7 @@ This module only gets Pi.
 """
 
 
-def get_pi() -> float:
+def get_pi() -> float
     """
     This dummy evaluation returns a slice of Pi.
 
